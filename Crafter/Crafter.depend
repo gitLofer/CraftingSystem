@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1588865355 source:c:\users\petar\desktop\crafter\main.cpp
+	<windows.h>
+	<iostream>
+	<cmath>
+	"list.hpp"
+	"dinstring.hpp"
+	"recipe.h"
+	"enchantment.h"
+	"item.h"
+	"armorSet.h"
+	"inventory.h"
+	"player.h"
+	"entity.h"
+	"mob.h"
+	"passiveMob.h"
+	"hostileMob.h"
+	"humanoidMob.h"
+	"zombie.h"
+	"skeleton.h"
+	"spider.h"
+	"bar.h"
+	"expBar.h"
+	"healthbar.h"
+	"hungerBar.h"
+
+1588702044 c:\users\petar\desktop\crafter\recipe.h
+
+1588864199 c:\users\petar\desktop\crafter\entity.h
+	"healthbar.h"
+
+1588862593 c:\users\petar\desktop\crafter\enchantment.h
+
+1588865413 c:\users\petar\desktop\crafter\item.h
+	"enchantment.h"
+	"recipe.h"
+	"list.hpp"
+	<iostream>
+
+1588680169 c:\users\petar\desktop\crafter\dinstring.hpp
+	<iostream>
+
+1588680157 c:\users\petar\desktop\crafter\list.hpp
+	<stdlib.h>
+	<iostream>
+
+1588834410 c:\users\petar\desktop\crafter\mob.h
+	"entity.h"
+	"item.h"
+	"list.hpp"
+
+1588863942 c:\users\petar\desktop\crafter\zombie.h
+	"humanoidMob.h"
+	"item.h"
+	"list.hpp"
+	"player.h"
+
+1588863782 c:\users\petar\desktop\crafter\humanoidmob.h
+	"hostileMob.h"
+	"armorSet.h"
+
+1588863691 c:\users\petar\desktop\crafter\player.h
+	"entity.h"
+	"armorSet.h"
+	"expBar.h"
+	"hungerBar.h"
+	"inventory.h"
+
+1588863854 c:\users\petar\desktop\crafter\hostilemob.h
+	"mob.h"
+	"player.h"
+
+1588862512 c:\users\petar\desktop\crafter\armorset.h
+	"item.h"
+
+1588834480 c:\users\petar\desktop\crafter\healthbar.h
+	"bar.h"
+
+1588866376 c:\users\petar\desktop\crafter\bar.h
+
+1588838928 c:\users\petar\desktop\crafter\expbar.h
+	"bar.h"
+	"item.h"
+	"enchantment.h"
+
+1588834559 c:\users\petar\desktop\crafter\hungerbar.h
+	"bar.h"
+
+1588859844 c:\users\petar\desktop\crafter\inventory.h
+	"item.h"
+	"list.hpp"
+
+1588863990 c:\users\petar\desktop\crafter\skeleton.h
+	"humanoidMob.h"
+	"armorSet.h"
+	"item.h"
+	"list.hpp"
+
+1588863807 c:\users\petar\desktop\crafter\spider.h
+	"hostileMob.h"
+	"armorSet.h"
+	"item.h"
+	"list.hpp"
+	"player.h"
+
+1588834430 c:\users\petar\desktop\crafter\passivemob.h
+	"mob.h"
+	"item.h"
+
